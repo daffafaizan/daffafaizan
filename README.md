@@ -7,7 +7,7 @@
 
 ## About Me:
 <pre>
-🔭 I’m currently working on personal projects<br>🎓 I'm currently studying Computer Science at the University of Indonesia<br>🌱 I’m currently learning Express.js and honing my skills in Web Development<br>💬 Feel free to ask me about anything through daffamfzn@gmail.com!</pre>
+🔭 I’m currently a Front End Developer Intern at Peduly!<br>🎓 I'm currently studying Computer Science at the University of Indonesia<br>🌱 I’m currently learning Express.js and honing my skills in Web Development<br>💬 Feel free to ask me about anything through daffamfzn@gmail.com!</pre>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daffaizan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daffa-muhammad-faizan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daffafaizan) 
