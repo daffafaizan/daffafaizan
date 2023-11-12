@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="https://assets.hongkiat.com/uploads/programming-jokes/joke--comic_sleep-cycle.jpg" width="500">
+</div>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Daffa!</h1>
 <p align="center">https://daffafaizan.com</p>
 
