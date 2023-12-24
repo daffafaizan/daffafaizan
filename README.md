@@ -8,7 +8,7 @@
 🧑🏻‍🚀 **About Me**
 
 <pre>
-I'm currently studying Computer Science at the University of Indonesia<br>I’m currently learning Express.js and honing my skills in Web Development<br>Feel free to ask me about anything through daffamfzn@gmail.com!<br></pre>
+I'm currently studying Computer Science at the University of Indonesia<br>I’m currently learning Express.js and Vim!<br>Feel free to ask me about anything through daffamfzn@gmail.com!<br></pre>
 
 🧑🏻‍🚀 **Projects**
 
