@@ -12,11 +12,13 @@ I'm currently studying Computer Science at the University of Indonesia<br>I’m 
 
 🧑🏻‍🚀 **Projects**
 
+- [Next.js Portfolio](https://daffafaizan.com)
 - [Django Medical Search Engine](http://nubengine.annavaws.com)
 - [Django Team Matching Platform](https://rpl-a12.et.r.appspot.com/)
 - [Golang Blog API](https://github.com/daffafaizan/blog-api)
 - [React.js Todolist](https://todolist.daffafaizan.com)
 - [React.js Pomodoro Timer](https://pomotimer.daffafaizan.com)
+- [Express.js JWT Template](https://github.com/daffafaizan/jwt-express)
 
 🧑🏻‍🚀 **Let's Connect**
 
