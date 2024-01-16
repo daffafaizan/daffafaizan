@@ -16,9 +16,10 @@ I'm currently studying Computer Science at the University of Indonesia<br>I’m 
 - [Django Medical Search Engine](http://nubengine.annavaws.com)
 - [Django Team Matching Platform](https://rpl-a12.et.r.appspot.com/)
 - [Golang Blog API](https://github.com/daffafaizan/blog-api)
-- [React.js Todolist](https://todolist.daffafaizan.com)
-- [React.js Pomodoro Timer](https://pomotimer.daffafaizan.com)
+- [Next.js Todolist](https://todolist.daffafaizan.com)
+- [Vite.js Pomodoro Timer](https://pomotimer.daffafaizan.com)
 - [Express.js JWT Template](https://github.com/daffafaizan/jwt-express)
+- [Express.js Todolist Back-end](https://github.com/daffafaizan/todolist-be)
 
 🧑🏻‍🚀 **Let's Connect**
 
