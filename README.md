@@ -17,7 +17,7 @@ I'm currently studying Computer Science at the University of Indonesia<br>I’m 
 - [Django Team Matching Platform](https://rpl-a12.et.r.appspot.com/)
 - [Golang Blog API](https://github.com/daffafaizan/blog-api)
 - [Next.js Todolist](https://todolist.daffafaizan.com)
-- [Vite.js Pomodoro Timer](https://pomotimer.daffafaizan.com)
+- [Vite.js Pomodoro Timer](https://pomotimer-by-dmf.netlify.app)
 - [Express.js JWT Template](https://github.com/daffafaizan/jwt-express)
 - [Express.js Todolist Back-end](https://github.com/daffafaizan/todolist-be)
 
