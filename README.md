@@ -14,7 +14,8 @@ I'm currently studying Computer Science at the University of Indonesia<br>I’m 
 
 - [Next.js Portfolio](https://daffafaizan.com)
 - [Django Medical Search Engine](http://nubengine.annavaws.com)
-- [Django Team Matching Platform](https://rpl-a12.et.r.appspot.com/)
+- [Django Team Matching Platform](https://github.com/daffafaizan/invite-app)
+- [FastAPI Vlecture](https://github.com/vlecture/vlecture-api)
 - [Golang Blog API](https://github.com/daffafaizan/blog-api)
 - [Next.js Todolist](https://todolist.daffafaizan.com)
 - [Vite.js Pomodoro Timer](https://pomotimer-by-dmf.netlify.app)
