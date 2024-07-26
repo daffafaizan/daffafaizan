@@ -8,7 +8,7 @@
 🧑🏻‍🚀 **About Me**
 
 <pre>
-I'm currently studying Computer Science at the University of Indonesia<br>I’m currently learning everything about QA!<br>Feel free to ask me about anything through daffamfzn@gmail.com!<br></pre>
+I'm currently studying Computer Science at the University of Indonesia<br>I’m currently learning everything about Cloud Computing!<br>Feel free to ask me about anything through daffamfzn@gmail.com!<br></pre>
 
 🧑🏻‍🚀 **Projects**
 
