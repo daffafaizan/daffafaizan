@@ -8,19 +8,11 @@
 🧑🏻‍🚀 **About Me**
 
 <pre>
-I'm currently studying Computer Science at the University of Indonesia<br>I’m currently learning everything about Cloud Computing!<br>Feel free to ask me about anything through daffamfzn@gmail.com!<br></pre>
+I'm currently studying Computer Science at the University of Indonesia<br>I’m currently learning everything about distributed computing, software engineering, cryptography, and blockchain technology!<br>Feel free to ask me about anything through daffamfzn@gmail.com!<br></pre>
 
 🧑🏻‍🚀 **Projects**
 
-- [Next.js Portfolio](https://daffafaizan.com)
-- [Django Medical Search Engine](http://nubengine.annavaws.com)
-- [Django Team Matching Platform](https://github.com/daffafaizan/invite-app)
-- [FastAPI Vlecture](https://github.com/vlecture/vlecture-api)
-- [Golang Blog API](https://github.com/daffafaizan/blog-api)
-- [Next.js Todolist](https://todolist.daffafaizan.com)
-- [Vite.js Pomodoro Timer](https://pomotimer-by-dmf.netlify.app)
-- [Express.js JWT Template](https://github.com/daffafaizan/jwt-express)
-- [Express.js Todolist Back-end](https://github.com/daffafaizan/todolist-be)
+- Please refer to my site, [right here](https://daffafaizan.com/projects)!
 
 🧑🏻‍🚀 **Let's Connect**
 
